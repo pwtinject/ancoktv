@@ -10,10 +10,10 @@ https://testfunctionlive.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJraWQiOiJjMTgxOTkzYy1mODUyLTQ0MmQtOTY1Yi1hMmI3MzU4ZGI5NjkiLCJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjEsImlzcyI6InZpc2lvbnBsdXMiLCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDExMiIsImlhdCI6MTcxNDY0MDg4MywiZXhwIjoxNzE0NjQxNDgzLCJqdGkiOiI0Yjc0ZjA1ZS01NTlmLTQxOGYtYWQ3MS05ODFkMjY0MDE1NmQiLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsInBvbGljeSI6eyJ3aWRldmluZSI6eyJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJjYW5fcGVyc2lzdCI6ZmFsc2V9fX0.53zF4fIDyf9fBb4Plly0oN_JxHGqkCXjNFKkQCUn6xQDxI2FkUNILogZu8LJnYtU3ceSqxk6eU61Cl_fX_8cmg
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_trans7_small1.png" group-title="LOCAL", CELEK TV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="LOCAL", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
